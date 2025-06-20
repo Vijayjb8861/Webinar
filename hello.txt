@@ -1,1 +1,2 @@
-"Hello Git!" 
+"Adding 1nd line to my first file" 
+"Adding 2nd line to my first file" 
