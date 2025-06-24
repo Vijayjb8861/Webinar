@@ -1,1 +1,2 @@
 "adding text to 3rd file" 
+adding some text to hello3.txt via github
