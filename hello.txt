@@ -1,3 +1,4 @@
 "Adding 1nd line to my first file" 
 "Adding 2nd line to my first file" 
 
+"new line added via echo" 
